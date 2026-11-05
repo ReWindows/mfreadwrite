@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "mfreadwrite.dll",
+  "latest": "2981759448-70CC0B418DDB66455A02F7F76E77C7D0-1",
+  "builds": [
+    {
+      "key": "2981759448-70CC0B418DDB66455A02F7F76E77C7D0-1",
+      "timestamp": "2981759448",
+      "pdb_guid": "70CC0B418DDB66455A02F7F76E77C7D0",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2981759448-70CC0B418DDB66455A02F7F76E77C7D0-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
